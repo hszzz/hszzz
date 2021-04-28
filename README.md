@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hszzz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hszzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hszzz&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="DIYgod's github stats"/>
+
+<a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/hszzz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hszzz&amp;theme=buefy&amp;show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hszzz&amp;theme=buefy&amp;layout=compact">
+</a>
