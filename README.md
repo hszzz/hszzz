@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning OS.
+
 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/hszzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hszzz&amp;theme=buefy&amp;show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hszzz&amp;theme=buefy&amp;layout=compact">
