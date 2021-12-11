@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<p align="center">一草一千秋，一花一世界。</p>
+<p align="center" style="font-size: 2.3rem">一草一千秋，一花一世界。</p>
