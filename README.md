@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <div style="float:right; font-size:20px; margin-top:20px;">—— 龙应台「目送」</div>
 </div>
 -->
-
+<!--
 <p align="center" style="font-size: 20px">一草一千秋，一花一世界。</p>
 <p align="center" style="font-size: 20px">一草一千秋，一花一世界。</p>
+-->
