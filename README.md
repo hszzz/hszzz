@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hszzz&amp;theme=buefy&amp;layout=compact">
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/hszzz/hszzz/output/github-contribution-grid-snake.svg)
+
 <!--
 <div style="position:relative; width:55%; margin-left:auto; margin-right:auto; margin-top:35vh; margin-bottom:35vh;">
   <div style="position:absolute; left:0; top:0; font-size:30px;">『</div>
